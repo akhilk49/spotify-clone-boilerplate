@@ -1,0 +1,73 @@
+*{padding: 0;
+margin: 0;}
+body{background-color: rgb(24, 24, 24);
+display: inline-flex;}
+#sidebar{background-color: black;
+width: 18%;
+font-family: 'DM Sans', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+}
+#logo{padding-top: 10px;}
+#container1{display: inline-flex;
+padding: 4px;}
+.container2{display: inline-flex;
+padding: 4px;}
+.container3{display: inline-flex;
+padding: 2px;}
+#container4{padding: 4px;}
+
+#logo{width: 200px;
+padding: 10px;
+}
+#home{width: 25px;
+padding-left: 15px;
+padding-top: 40px;}
+#home1{padding-top: 40px;}
+p{color: white;
+padding-left: 25px;}
+#search{width: 25px;
+padding-left: 15px;
+}
+#yourlibrary{width: 25px;
+padding-left: 15px;}
+#createplaylist{width: 25px;
+    padding-left: 15px;}
+#likedsongs{width: 25px;
+    padding-left: 15px;}
+#yourepisodes{width: 25px;
+padding-left: 15px;}
+#installapp{width: 25px;
+padding-left: 15px;}
+
+h4{color:white;
+padding-left: 17px;
+padding-top: 7px;}
+h3{color: white;
+padding-left: 25px;}
+footer{background-color: rgb(23, 17, 9);
+width: 1515px;
+height: 75px;
+padding: 35px;
+display: inline-flex;
+}
+#current{display: inline-flex;}
+#installapp{width: 25px;
+    padding-left: 15px;}
+#currentimage{width: 50px;}
+#currentfav{height: 30%;
+width: 30%;
+padding-left: 30px;
+padding-top: 15px;}
+#musicplayerimg{width: 95%;
+padding-left: 130px;}
+#rightoptionimg{width: 70%;
+padding-left: 120px;
+padding-top: 25px;}
+
+
+#content{background-color: blue;}
+#topnav{width: 40%;
+position:static;
+padding-left: 330px;}
